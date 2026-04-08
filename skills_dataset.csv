@@ -1,0 +1,22 @@
+Job Role,Skills,Category
+Data Scientist,Python;Machine Learning;Statistics;Pandas;NumPy;Scikit-learn;Data Visualization;SQL;R;Jupyter;TensorFlow;Deep Learning;Feature Engineering;A/B Testing;Matplotlib;Seaborn,Data & AI
+Machine Learning Engineer,Python;Deep Learning;TensorFlow;PyTorch;Scikit-learn;Machine Learning;MLOps;Docker;Kubernetes;Cloud;REST API;Git;Feature Engineering;Model Deployment;C++;CUDA,Data & AI
+Data Analyst,SQL;Python;Excel;Power BI;Tableau;Statistics;Data Visualization;Pandas;NumPy;R;Google Analytics;ETL;Business Intelligence;Reporting;VLOOKUP;Dashboard,Data & AI
+AI Research Scientist,Python;Deep Learning;PyTorch;TensorFlow;Mathematics;Research;NLP;Computer Vision;Reinforcement Learning;Statistics;LaTeX;CUDA;Transformers;Bayesian Methods,Data & AI
+NLP Engineer,Python;NLP;NLTK;spaCy;Transformers;BERT;Deep Learning;Machine Learning;TensorFlow;PyTorch;Text Mining;Information Extraction;Sentiment Analysis;Named Entity Recognition,Data & AI
+Computer Vision Engineer,Python;OpenCV;Deep Learning;TensorFlow;PyTorch;Image Processing;CNN;Object Detection;YOLO;Scikit-learn;C++;CUDA;Medical Imaging;GAN,Data & AI
+Web Developer,HTML;CSS;JavaScript;React;Node.js;SQL;Git;REST API;TypeScript;MongoDB;Express.js;CSS Frameworks;Responsive Design;Web Security;GraphQL;Redux,Web & Software
+Frontend Developer,HTML;CSS;JavaScript;React;TypeScript;Vue.js;Angular;CSS Frameworks;Figma;Webpack;Git;REST API;Redux;Web Performance;Accessibility;UI/UX,Web & Software
+Backend Developer,Python;Java;Node.js;SQL;REST API;Docker;Kubernetes;Microservices;MongoDB;PostgreSQL;Redis;Git;Cloud;System Design;Security;Authentication,Web & Software
+Full Stack Developer,HTML;CSS;JavaScript;React;Node.js;Python;SQL;MongoDB;Git;REST API;Docker;TypeScript;Cloud;DevOps;System Design;Authentication,Web & Software
+Software Engineer,Python;Java;C++;Data Structures;Algorithms;Git;Object-Oriented Programming;System Design;SQL;REST API;Testing;Agile;Design Patterns;Problem Solving;Linux,Web & Software
+DevOps Engineer,Docker;Kubernetes;CI/CD;Linux;Cloud;Git;Jenkins;Terraform;Ansible;Python;Bash;Monitoring;Security;Networking;AWS;Azure,Infrastructure & Cloud
+Cloud Architect,AWS;Azure;Google Cloud;Terraform;Docker;Kubernetes;Security;Networking;System Design;Python;CI/CD;Cost Optimization;Microservices;Serverless;Database Design,Infrastructure & Cloud
+Cybersecurity Analyst,Network Security;Penetration Testing;SIEM;Firewalls;Linux;Python;Cryptography;Vulnerability Assessment;Incident Response;Compliance;Risk Management;Forensics,Infrastructure & Cloud
+Database Administrator,SQL;PostgreSQL;MySQL;Oracle;MongoDB;Database Design;Performance Tuning;Backup Recovery;Replication;ETL;Data Modeling;Security;Linux;Python,Infrastructure & Cloud
+Mobile Developer,Swift;Kotlin;Java;React Native;Flutter;Android;iOS;REST API;SQL;Git;UI/UX;Firebase;Push Notifications;App Store Deployment,Web & Software
+Blockchain Developer,Solidity;Ethereum;Web3.js;Smart Contracts;Cryptography;JavaScript;Python;DeFi;NFT;Truffle;Hardhat;Consensus Algorithms,Emerging Tech
+AR/VR Developer,Unity;C#;3D Modeling;Computer Vision;OpenGL;JavaScript;Python;Game Development;UX Design;Hardware Integration,Emerging Tech
+Business Intelligence Developer,SQL;Tableau;Power BI;ETL;Data Modeling;Python;Excel;Business Analysis;Data Warehousing;Reporting;DAX;SSRS,Data & AI
+Product Manager,Product Strategy;Agile;Roadmapping;User Research;SQL;Data Analysis;Stakeholder Management;Communication;Jira;A/B Testing;Go-to-Market;Wireframing,Management & Design
+UI/UX Designer,Figma;Adobe XD;User Research;Wireframing;Prototyping;CSS;HTML;Usability Testing;Design Systems;Information Architecture;Visual Design;Accessibility,Management & Design

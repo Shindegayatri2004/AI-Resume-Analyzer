@@ -1,0 +1,79 @@
+JOHN SMITH
+Data Scientist | Machine Learning Engineer
+Email: john.smith@email.com | Phone: +1-555-123-4567
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+═══════════════════════════════════════════════
+PROFESSIONAL SUMMARY
+═══════════════════════════════════════════════
+Experienced Data Scientist with 4 years of experience in machine learning,
+deep learning, and data analysis. Proficient in building end-to-end ML pipelines,
+deploying models to production, and extracting actionable insights from large datasets.
+Strong background in Python, TensorFlow, and cloud platforms.
+
+═══════════════════════════════════════════════
+TECHNICAL SKILLS
+═══════════════════════════════════════════════
+Programming Languages: Python, R, SQL, Bash
+Machine Learning: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
+Data Processing: Pandas, NumPy, Spark, Hadoop
+Visualization: Matplotlib, Seaborn, Plotly, Tableau
+NLP: NLTK, spaCy, Transformers, BERT
+Cloud & DevOps: AWS, Docker, Git, CI/CD, Kubernetes
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Other: Jupyter, REST API, Agile, Linux
+
+═══════════════════════════════════════════════
+WORK EXPERIENCE
+═══════════════════════════════════════════════
+Senior Data Scientist | TechCorp Inc.  (2022 - Present)
+- Developed a customer churn prediction model using Random Forest and XGBoost
+  achieving 91% accuracy, reducing churn by 18%
+- Built NLP pipelines for sentiment analysis of 1M+ customer reviews using BERT
+- Deployed ML models to AWS using Docker and Kubernetes, reducing inference latency by 35%
+- Collaborated with cross-functional teams using Agile methodology
+
+Data Analyst | DataVision Ltd.  (2020 - 2022)
+- Created interactive dashboards in Tableau and Power BI for executive reporting
+- Performed A/B testing and statistical analysis to optimize marketing campaigns
+- Wrote complex SQL queries to extract insights from data warehouse (PostgreSQL)
+- Automated ETL pipelines using Python and Airflow, saving 15 hours/week
+
+═══════════════════════════════════════════════
+EDUCATION
+═══════════════════════════════════════════════
+Master of Science in Data Science
+State University  |  2018 - 2020  |  GPA: 3.8/4.0
+
+Bachelor of Science in Computer Science
+City College  |  2014 - 2018
+
+═══════════════════════════════════════════════
+PROJECTS
+═══════════════════════════════════════════════
+1. Real-Time Fraud Detection System
+   - Built an end-to-end fraud detection pipeline using Python, Kafka, and Scikit-learn
+   - Achieved 97.3% precision using ensemble methods and feature engineering
+
+2. NLP-Based News Classifier
+   - Fine-tuned BERT model for multi-class news categorization (94% F1 score)
+   - Deployed as a REST API using FastAPI and Docker
+
+3. Customer Segmentation Dashboard
+   - Applied K-Means and DBSCAN clustering to segment 500K customers
+   - Created interactive Plotly dashboard for business stakeholders
+
+═══════════════════════════════════════════════
+CERTIFICATIONS
+═══════════════════════════════════════════════
+- AWS Certified Machine Learning Specialty (2023)
+- TensorFlow Developer Certificate - Google (2022)
+- Deep Learning Specialization - Coursera/DeepLearning.AI (2021)
+- Data Science Professional Certificate - IBM (2020)
+
+═══════════════════════════════════════════════
+PUBLICATIONS & ACHIEVEMENTS
+═══════════════════════════════════════════════
+- Published paper: "Efficient Feature Engineering for Tabular Data" (2023)
+- Kaggle Competitions Master (Top 1% in 3 competitions)
+- Speaker at PyData Conference 2023: "MLOps Best Practices"
